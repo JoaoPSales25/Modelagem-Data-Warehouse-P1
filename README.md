@@ -14,7 +14,7 @@ Estou fazendo ele para facilitar caso queiram mexer em algo ou refazer usando ou
 
 [Mermaid](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=toggle#pako:eNp1kkGOgyAUhq9C2PcC3TGUaUw6xaB2ZTIh-saYqBjULqo9zCznHL3YQK0tnTJs-fjfxw8jzlQOeI1Bb0pZaFmnDTKL7gK2jxmaptVqGpFgERMHgtboS568xI5TQgk3hAZZlSfppT54zEUQxTZJDr3Sd_Cxc7bo5ARmqskHM3UGF5UbthVJyD8PLKDJzsIpvvygVmqJhjrF3iMhiYM7CrUHtLbKvVOKC7hGSovO8LI7zakPBVkNhXxmXiZr6EsTmIMz3YWVC-dwVNURnl2fxo-I8jdB9tQWa1UXycXq37Za0D00GSC3MPeUMTmQLbnC0PWX71lD_mVvHqHg-zghInDHtKrrhtLLv5t3d8geao_4iAhlUWQ-iJt2A63cS7-Vyq6_cNXda0P4_AsNVt_v)
 
-´´´
+```
 erDiagram
 
     CLIENTE ||--|{ RESERVA : faz
@@ -39,7 +39,7 @@ erDiagram
 
     VAGA }|--|| PATIO : "localiza-se em um"
 
-´´´
+```
 
 ## Modelo Lógico
 
