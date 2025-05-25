@@ -16,10 +16,11 @@ Estou fazendo ele para facilitar caso queiram mexer em algo ou refazer usando ou
 
 ´´´
 erDiagram
-CLIENTE ||--|{ RESERVA : faz
-CLIENTE ||--|{ LOCACAO : realiza
-CLIENTE ||--|{ MOTORISTA : autoriza
-MOTORISTA }|--|| LOCACAO : conduz
+
+    CLIENTE ||--|{ RESERVA : faz
+    CLIENTE ||--|{ LOCACAO : realiza
+    CLIENTE ||--|{ MOTORISTA : autoriza
+    MOTORISTA }|--|| LOCACAO : conduz
 
     RESERVA }|--|| GRUPO_VEICULO : "é para um"
     RESERVA }|--|| PATIO : "é em um"
