@@ -4,6 +4,7 @@
 -- Augusto Fernandes Nodari 						DRE: 121131778 
 -- Henrique Almico Dias da Silva  					DRE: 124238228
 -- João Pedro de Faria Sales  						DRE: 121056457 
+-- Vitor Rayol Taranto                              DRE: 121063585
 
 -- Tabela para os Grupos (Categorias) de Veículos
 CREATE TABLE grupos_veiculos (
