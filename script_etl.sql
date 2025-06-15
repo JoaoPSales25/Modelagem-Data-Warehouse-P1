@@ -5,6 +5,7 @@
 -- Henrique Almico Dias da Silva  					DRE: 124238228
 -- João Pedro de Faria Sales  						DRE: 121056457 
 -- Vitor Rayol Taranto                              DRE: 121063585
+
 CREATE SCHEMA IF NOT EXISTS staging;
 
 CREATE TABLE staging.stg_grupos_veiculos (
