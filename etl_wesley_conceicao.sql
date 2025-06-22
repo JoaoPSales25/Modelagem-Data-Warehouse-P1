@@ -1,6 +1,10 @@
--- Script de Extração ETL para a Área de Staging
--- Data de Geração: 22 de junho de 2025
--- Autor: Consultoria de TIC
+-- Avaliação 02: Modelagem de Data Warehouse
+-- Parte 2: 
+-- Grupo:
+-- Augusto Fernandes Nodari 						DRE: 121131778 
+-- Henrique Almico Dias da Silva  					DRE: 124238228
+-- João Pedro de Faria Sales  						DRE: 121056457 
+-- Vitor Rayol Taranto                              DRE: 121063585
 
 -- O objetivo deste script é extrair dados de sistemas OLTP de diversas empresas
 -- associadas ao consórcio de locadoras de veículos e carregá-los em uma área de staging.
